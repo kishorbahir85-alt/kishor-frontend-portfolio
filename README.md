@@ -22,5 +22,5 @@ I'm a developer interested in building clean, responsive and user-friendly web a
 More projects and live demos coming soon.
 
 ### Contact
-- LinkedIn: https://linkedin.com/in/kishor-bahir
+- LinkedIn: https://www.linkedin.com/in/kishor-bahir-55995a2a8/
 - Email: kishorbahir85@gmail.com
